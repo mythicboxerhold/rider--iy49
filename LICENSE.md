@@ -1,4 +1,4 @@
-# 
+# ultimate JetBrains Rider for PC | JetBrains Rider for Windows Script | intelligent-suggestions + build-automation offers the most advanced JetBrains Rider for PC | JetBrains Rider
 
 
 
